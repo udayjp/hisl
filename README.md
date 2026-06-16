@@ -1,7 +1,7 @@
 # HiSL (Hindi Stopword List)
 HiSL is a comprehensive Hindi stopword resource derived from multi-corpus statistical and linguistic analysis.
 
-For more details, please refer to the published paper: 
+For more details, please refer to the published [paper](https://doi.org/10.1007/s40010-026-01098-y): 
 
 ## Resource Summary
 * Total Stopwords: **1,311**
@@ -20,7 +20,8 @@ If you use HiSL in your work, please cite:
 title={HiSL: A Comprehensive Hindi Stopword List Derived from Multi-Corpus Statistical and Linguistic Analysis},
 author={Prasad, Uday Jaikishor and Mishra, Pramod Kumar},
 journal={Proceedings of the National Academy of Sciences, India Section A: Physical Sciences},
-year={2026}
+year={2026},
+doi = {https://doi.org/10.1007/s40010-026-01098-y}
 }
 ```
 
